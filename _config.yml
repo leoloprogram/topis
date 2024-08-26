@@ -1,0 +1,10 @@
+title: Il Mio Sito Jekyll
+description: >- 
+  Un semplice sito creato con Jekyll.
+baseurl: "" # imposta su "" se stai lavorando in locale
+url: "http://localhost:4000" # indirizzo del sito
+theme: minima
+markdown: kramdown
+
+# Configurazioni per il build
+permalink: pretty
